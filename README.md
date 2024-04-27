@@ -2,4 +2,4 @@ This is a simple BMI Calculator. Specify your height and weight using the slider
 
 ## Sample Image
 
-![Sample Image](/public/sample-image.jpg)
+<img src="/public/sample-image.png" alt="Sample Image" width="400">
